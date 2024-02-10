@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wissensdatenbank/machine-learning/machine-learning/"}
+{"dg-publish":true,"permalink":"/wissensdatenbank/machine-learning/machine-learning/","dgPassFrontmatter":true}
 ---
 
 | File                                                                                                                            | file.cday         | file.tags                                             |
