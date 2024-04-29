@@ -2,9 +2,6 @@
 {"_filters":[],"_contexts":[],"_links":[],"_sort":{"field":"rank","asc":false,"group":false},"dg-publish":true,"permalink":"/natural-language-processing/text-preparation/text-preparation/","dgPassFrontmatter":true}
 ---
 
-
-Text Preparation
-
 ### Textbereinigung
 Textbereinigung ist der Prozess, unerwünschte oder irrelevante Informationen aus den Textdaten zu entfernen. Dies kann umfassen:
 - **Entfernen von Sonderzeichen und Zahlen**, die für die spezifische Analyse nicht benötigt werden.
