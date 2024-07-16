@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/transformer/transformer/"}
+{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/transformer/transformer/","noteIcon":""}
 ---
 
 

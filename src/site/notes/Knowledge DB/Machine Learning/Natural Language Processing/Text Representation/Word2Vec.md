@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/text-representation/word2-vec/"}
+{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/text-representation/word2-vec/","noteIcon":""}
 ---
 
 Attributes:

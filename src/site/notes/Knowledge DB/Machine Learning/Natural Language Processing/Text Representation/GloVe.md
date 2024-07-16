@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/text-representation/glo-ve/"}
+{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/text-representation/glo-ve/","noteIcon":""}
 ---
 
 longform: Global Vectodoc

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-db/mathematics/analysis/divergenz-eines-vektorfeldes/"}
+{"dg-publish":true,"permalink":"/knowledge-db/mathematics/analysis/divergenz-eines-vektorfeldes/","noteIcon":""}
 ---
 
 ![Pasted image 20230525191744.png](/img/user/Files/Documents/Pasted%20image%2020230525191744.png)

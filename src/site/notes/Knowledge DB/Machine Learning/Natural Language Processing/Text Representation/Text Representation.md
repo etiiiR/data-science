@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/text-representation/text-representation/"}
+{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/text-representation/text-representation/","noteIcon":""}
 ---
 
 ### Textbereinigung

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/untitled/"}
+{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/untitled/","noteIcon":""}
 ---
 
 Die Lernmethoden für NLP (Natural Language Processing) lassen sich grob in drei Hauptkategorien unterteilen: Pre-Training, Fine-Tuning und In-Context Learning. Diese Methoden ermöglichen es maschinellen Lernmodellen, natürliche Sprache in einer Weise zu verstehen und zu generieren, die frühere Techniken in den Schatten stellt. Hier ist eine detaillierte Zusammenfassung jeder Methode:

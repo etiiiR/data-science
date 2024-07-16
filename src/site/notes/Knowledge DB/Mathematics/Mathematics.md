@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-db/mathematics/mathematics/"}
+{"dg-publish":true,"permalink":"/knowledge-db/mathematics/mathematics/","noteIcon":""}
 ---
 

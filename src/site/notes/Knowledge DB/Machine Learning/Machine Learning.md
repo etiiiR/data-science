@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/machine-learning/"}
+{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/machine-learning/","noteIcon":""}
 ---
 
 ![[Data_Science_Cheatsheet.pdf]]

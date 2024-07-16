@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/text-representation/fast-text/"}
+{"dg-publish":true,"permalink":"/knowledge-db/machine-learning/natural-language-processing/text-representation/fast-text/","noteIcon":""}
 ---
 
 **FastText: Enhanced Word Representations with Subword Information**
