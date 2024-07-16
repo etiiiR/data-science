@@ -7,7 +7,7 @@
 Eine Lineare Abbildung ist definiert durch:
 
 > [!Definition]
-> > ![f(\vektor{v}+\vektor{w})=f(\vektor{v})+f(\vektor{w})Mathe-Abitur](https://abiturma.de/assets/compiled-latex/1e1ceeab8714602bbb230cb759128bb238db9f21.svg "f(\vektor{v}+\vektor{w})=f(\vektor{v})+f(\vektor{w})Mathe-Abitur")
+> ![f(\vektor{v}+\vektor{w})=f(\vektor{v})+f(\vektor{w})Mathe-Abitur](https://abiturma.de/assets/compiled-latex/1e1ceeab8714602bbb230cb759128bb238db9f21.svg "f(\vektor{v}+\vektor{w})=f(\vektor{v})+f(\vektor{w})Mathe-Abitur")
 > ![f(\lambda \vektor{v})=\lambda f(\vektor{v})Mathe-Abitur](https://abiturma.de/assets/compiled-latex/aa368ee214091ee8b03d2097e80b5651dd13d35e.svg "f(\lambda \vektor{v})=\lambda f(\vektor{v})Mathe-Abitur")
 
 ### Längen treue (längentreue) Lineare Abbildungen
